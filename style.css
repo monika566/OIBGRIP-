@@ -1,0 +1,27 @@
+body {
+    text-align:center;
+    background-color: #bbbb;
+    font-family:Arial Black
+  }
+  img {
+    max-width:100%;
+    height:auto;
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+  }
+  p {
+    font-family:arial;
+    text-align:justify;
+  }
+  a {
+    font-family:arial;
+    color:blue;
+  }
+  #tribute-info{
+    color: crimson;
+  }
+  #tribute-link{
+    color: palevioletred;
+  }
+  
